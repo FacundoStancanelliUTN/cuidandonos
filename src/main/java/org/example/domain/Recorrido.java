@@ -8,9 +8,16 @@ import java.util.stream.Collectors;
 public class Recorrido {
 
     private List<Direccion> direcciones;
-
     @Getter
-    private int avisoEstadoSaludEnMinutos;
+    private float avisoEstadoSaludEnMinutos;
+
+    public Recorrido(float avisoEstadoSaludEnMinutos) {
+        this.avisoEstadoSaludEnMinutos = avisoEstadoSaludEnMinutos;
+    }
+
+    public void agregarDireccion(Direccion direccion) {
+        direcciones.add(direccion);
+    }
 
     private List<Direccion> getDireccionesOrdenadas() {
         List<Direccion> direccionesOrdenadas = direcciones.stream().sorted(Direccion::compareTo).collect(Collectors.toList());
