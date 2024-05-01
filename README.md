@@ -1,7 +1,7 @@
 Integrante: Facundo Diego Stancanelli
 
 "# cuidandonos" 
-![Cuidandonos](https://github.com/FacundoStancanelliUTN/cuidandonos/assets/129307586/cd5ae1e5-1774-40f9-8394-70d92db93259)
+![Cuidandonos](https://github.com/FacundoStancanelliUTN/cuidandonos/assets/129307586/1e37c4da-85bc-497a-a4b7-8546a0101b27)
 
 
 
