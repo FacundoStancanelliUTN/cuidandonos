@@ -1,7 +1,8 @@
 Integrante: Facundo Diego Stancanelli
 
 "# cuidandonos" 
-![Cuidandonos](https://github.com/FacundoStancanelliUTN/cuidandonos/assets/129307586/a473506f-e355-412f-8360-31cd270448c3)
+![Cuidandonos](https://github.com/FacundoStancanelliUTN/cuidandonos/assets/129307586/3d61a7eb-0e75-450a-9347-09610a930693)
+
 
 
 Se utilizan los siguientes patrones de diseño:
